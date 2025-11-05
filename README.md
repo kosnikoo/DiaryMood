@@ -1,2 +1,2 @@
 # DiaryMood
-Fpplication of diary mood
+Application of diary mood
